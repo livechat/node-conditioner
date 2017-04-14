@@ -10,9 +10,9 @@
   ],
   "repository": {
     "type": "git",
-    "url": "git@github.com:livechat/node-es-client.git"
+    "url": "git@github.com:livechat/node-conditioner.git"
   },
-  "main": "./lib/esClient",
+  "main": "./lib/index",
   "keywords": [
     "throttle",
     "node.js",
