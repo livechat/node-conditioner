@@ -1,0 +1,34 @@
+{
+  "name": "node-network-conditioner",
+  "version": "0.1.0",
+  "author": "LiveChat",
+  "contributors": [
+    {
+      "name": "Grzegorz Wyszynski",
+      "email": "g.wyszynski@livechatinc.com"
+    }
+  ],
+  "repository": {
+    "type": "git",
+    "url": "git@github.com:livechat/node-es-client.git"
+  },
+  "main": "./lib/esClient",
+  "keywords": [
+    "throttle",
+    "node.js",
+    "conditioner",
+    "livechat"
+  ],
+  "dependencies": {
+    "stream-buffers": "^3.0.1",
+    "throttle": "^1.0.3",
+    "underscore": "^1.8.3"
+  },
+  "devDependencies": {
+    "coffee-script": "1.9.2"
+  },
+  "license": "MIT",
+  "engines": {
+    "node": ">=6.0.0"
+  }
+}
